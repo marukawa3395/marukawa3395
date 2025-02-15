@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+This repository just to verify its my github account with my discod username is marukawa3395
+
+Thank you
+
 <!--
 **marukawa3395/marukawa3395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
